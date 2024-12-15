@@ -1,0 +1,28 @@
+.expertise {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 4rem 1rem;
+    background: #fff;
+  }
+  
+  .expertise__block {
+    max-width: 400px;
+    text-align: center;
+  }
+  
+  .expertise__block h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .expertise__block p {
+    color: #555;
+    margin-bottom: 2rem;
+  }
+  
+  .expertise__icons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }

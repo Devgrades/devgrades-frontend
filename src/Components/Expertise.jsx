@@ -1,5 +1,5 @@
 import React from 'react';
-import './Expertise.css';
+import '../styles/Expertise.css';
 import { FaReact, FaNodeJs } from 'react-icons/fa';
 
 const Expertise = () => {
